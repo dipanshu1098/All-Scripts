@@ -5,11 +5,11 @@
 # ============================================================
 
 declare -A SYSTEMS=(
-    ["192.168.0.102"]="seclva10"
-    ["192.168.0.103"]="seclva3"
-    ["192.168.0.107"]="seclva0")
+    ["192.168.0.102"]="username"
+    ["192.168.0.103"]="username"
+    ["192.168.0.107"]="username")
 
-PASSWORD="secl@123"
+PASSWORD="******"
 
 LOG_FILE="monitor_all.log"
 OUTPUT_FILE="monitor_all_report.txt"
